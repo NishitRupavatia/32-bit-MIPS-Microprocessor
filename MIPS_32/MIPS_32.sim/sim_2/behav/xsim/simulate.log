@@ -1,0 +1,5 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Mem[120]:   85 
+Mem[121]: x
+$finish called at time : 600 ps : File "C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test2_mips32.v" Line 49

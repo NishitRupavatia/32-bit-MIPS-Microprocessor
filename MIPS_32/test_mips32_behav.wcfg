@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test2_mips32_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test2_mips32" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="109201fs"></ZoomEndTime>
+      <Cursor1Time time="25000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="256"></NameColumnWidth>
+      <ValueColumnWidth column_width="183"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/test2_mips32/clk1" type="logic">
+      <obj_property name="ElementShortName">clk1</obj_property>
+      <obj_property name="ObjectShortName">clk1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/clk2" type="logic">
+      <obj_property name="ElementShortName">clk2</obj_property>
+      <obj_property name="ObjectShortName">clk2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/IF_ID_IR" type="array">
+      <obj_property name="ElementShortName">IF_ID_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/IF_ID_NPC" type="array">
+      <obj_property name="ElementShortName">IF_ID_NPC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_NPC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/ID_EX_A" type="array">
+      <obj_property name="ElementShortName">ID_EX_A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_A[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/ID_EX_B" type="array">
+      <obj_property name="ElementShortName">ID_EX_B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_B[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/ID_EX_IR" type="array">
+      <obj_property name="ElementShortName">ID_EX_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/ID_EX_Imm" type="array">
+      <obj_property name="ElementShortName">ID_EX_Imm[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_Imm[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/ID_EX_NPC" type="array">
+      <obj_property name="ElementShortName">ID_EX_NPC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_NPC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/ID_EX_type" type="array">
+      <obj_property name="ElementShortName">ID_EX_type[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_type[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/EX_MEM_ALUOut" type="array">
+      <obj_property name="ElementShortName">EX_MEM_ALUOut[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_ALUOut[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/EX_MEM_B" type="array">
+      <obj_property name="ElementShortName">EX_MEM_B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_B[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/EX_MEM_IR" type="array">
+      <obj_property name="ElementShortName">EX_MEM_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/EX_MEM_type" type="array">
+      <obj_property name="ElementShortName">EX_MEM_type[2:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_type[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/MEM_WB_ALUOut" type="array">
+      <obj_property name="ElementShortName">MEM_WB_ALUOut[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_ALUOut[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/MEM_WB_IR" type="array">
+      <obj_property name="ElementShortName">MEM_WB_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/MEM_WB_LMD" type="array">
+      <obj_property name="ElementShortName">MEM_WB_LMD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_LMD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2_mips32/mips/MEM_WB_type" type="array">
+      <obj_property name="ElementShortName">MEM_WB_type[2:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_type[2:0]</obj_property>
+   </wvobject>
+</wave_config>
