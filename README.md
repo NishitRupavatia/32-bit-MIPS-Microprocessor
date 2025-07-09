@@ -92,10 +92,12 @@ To test control flow, loops, and arithmetic operations, a factorial computation 
 
 ## 📸 Waveform & Output Snapshots
 
-> *(Upload your waveform and register dump images in a folder like `/images`, then replace the example links below)*
+
 
 ### ▶️ Output Registers
-![Register Output](images/register_output.png)
+![Register Output](Images_MIPS32/Test3_logconsole.png)
+
+
 
 
 ### 📉 Waveform Snapshot
