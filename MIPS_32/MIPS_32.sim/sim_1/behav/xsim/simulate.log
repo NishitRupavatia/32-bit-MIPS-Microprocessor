@@ -1,3 +1,20 @@
 Vivado Simulator 2018.3
 Time resolution is 1 ps
-$finish called at time : 200 ps : File "C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test2_mips32.v" Line 49
+Time=0 | R2 =          2
+Time=0 | R3 =          3
+Time=67000 | R2 =          1
+Time=107000 | R3 =          7
+Time=147000 | R2 =          7
+Time=187000 | R3 =          6
+Time=267000 | R2 =         42
+Time=307000 | R3 =          5
+Time=387000 | R2 =        210
+Time=427000 | R3 =          4
+Time=507000 | R2 =        840
+Time=547000 | R3 =          3
+Time=627000 | R2 =       2520
+Time=667000 | R3 =          2
+Time=747000 | R2 =       5040
+Time=787000 | R3 =          1
+Mem[200] =  7, Mem[198] =   5040
+$finish called at time : 900 ns : File "C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test3_mips32.v" Line 56

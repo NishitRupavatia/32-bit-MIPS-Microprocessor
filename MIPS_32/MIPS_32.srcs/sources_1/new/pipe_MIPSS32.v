@@ -1,4 +1,4 @@
-`timescale 1s / 1ms
+`timescale 1ns / 1ps
 
 module pipe_MIPSS32 (clk1, clk2);
 
@@ -140,8 +140,3 @@ always @ (posedge clk1)                     // WB Stage
     end
 
 endmodule
-
-
-
-
-

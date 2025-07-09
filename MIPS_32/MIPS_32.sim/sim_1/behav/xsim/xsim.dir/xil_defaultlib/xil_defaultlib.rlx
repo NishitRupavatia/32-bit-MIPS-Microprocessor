@@ -3,8 +3,7 @@
 Dec  7 2018
 00:33:28
 C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
-C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test2_mips32.v,1751710599,verilog,,,,test2_mips32,,,,,,,,
-C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test_mips32.v,1751633049,verilog,,,,test_mips32,,,,,,,,
-C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sources_1/new/pipe_MIPS32.v,1751630303,verilog,,C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test_mips32.v,,pipe_MIPS32,,,,,,,,
-C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sources_1/new/pipe_MIPSS32.v,1751632992,verilog,,C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test2_mips32.v,,pipe_MIPSS32,,,,,,,,
-C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sources_1/new/pipes_MIPSS32.v,1751710758,verilog,,C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test2_mips32.v,,pipes_MIPSS32,,,,,,,,
+C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test2_mips32.v,1752036028,verilog,,,,test2_mips32,,,,,,,,
+C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test3_mips32.v,1751892092,verilog,,,,test3_mips32,,,,,,,,
+C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test_mips32.v,1751980175,verilog,,,,test_mips32,,,,,,,,
+C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sources_1/new/pipe_MIPSS32.v,1751882862,verilog,,C:/Nishit/BTech/Internship resources/MIPS_32/MIPS_32.srcs/sim_1/new/test2_mips32.v,,pipe_MIPSS32,,,,,,,,
