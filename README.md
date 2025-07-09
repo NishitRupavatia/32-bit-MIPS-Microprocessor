@@ -1,6 +1,6 @@
 # Pipelined 32-bit MicroMIPS Processor (Verilog)
 
-**Author:** Nishit Tupavatia
+**Author:** Nishit Rupavatia
 
 This project implements a **32-bit pipelined MicroMIPS processor** using **Verilog HDL**, supporting a subset of the MicroMIPS instruction set. The processor is designed with a 5-stage pipeline architecture and includes basic hazard detection and branch handling mechanisms.
 
