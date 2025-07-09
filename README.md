@@ -71,11 +71,36 @@ The processor is divided into the following pipeline stages:
 ## Simulation & Testing
 
 - Multiple test programs were executed to verify the processor functionality.
-- Waveform analysis was performed using a Verilog simulator (e.g., ModelSim).
+- Waveform analysis was performed using a Verilog simulator.
 - Instructions tested include arithmetic, memory access, and conditional branching.
 - Registers and memory state are monitored to verify correctness at each pipeline stage.
 
 ---
+
+## 🔁 Testbench Example: Factorial of 7
+
+To test control flow, loops, and arithmetic operations, a factorial computation was implemented in memory and executed by the processor.
+
+---
+
+## ✅ Expected Result
+
+- Factorial of 7 = **5040**
+- After execution, `Mem[198]` should contain **5040**
+
+---
+
+## 📸 Waveform & Output Snapshots
+
+> *(Upload your waveform and register dump images in a folder like `/images`, then replace the example links below)*
+
+### ▶️ Output Registers
+![Register Output](images/register_output.png)
+
+
+### 📉 Waveform Snapshot
+![Waveform](images/waveform.png)
+
 
 ##  Notes
 
