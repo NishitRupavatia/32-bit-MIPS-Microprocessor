@@ -99,7 +99,7 @@ To test control flow, loops, and arithmetic operations, a factorial computation 
 
 
 ### 📉 Waveform Snapshot
-![Waveform](images/waveform.png)
+![Waveform](Images_MIPS32/Test3_Wveforms.png)
 
 
 ##  Notes
