@@ -77,30 +77,30 @@ The processor is divided into the following pipeline stages:
 
 ---
 
-## 🔁 Testbench Example: Factorial of 7
+## Testbench Example: Factorial of 7
 
 To test control flow, loops, and arithmetic operations, a factorial computation was implemented in memory and executed by the processor.
 
 ---
 
-## ✅ Expected Result
+## Expected Result
 
 - Factorial of 7 = **5040**
 - After execution, `Mem[198]` should contain **5040**
 
 ---
 
-## 📸 Waveform & Output Snapshots
+## Waveform & Output Snapshots
 
 
 
-### ▶️ Output Registers
+### Output Registers
 ![Register Output](Images_MIPS32/Test3_logconsole.png)
 
 
 
 
-### 📉 Waveform Snapshot
+###  Waveform Snapshot
 ![Waveform](Images_MIPS32/Test3_Wveforms.png)
 
 
